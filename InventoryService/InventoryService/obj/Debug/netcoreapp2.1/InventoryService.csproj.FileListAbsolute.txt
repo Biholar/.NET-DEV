@@ -1,0 +1,16 @@
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.csprojAssemblyReference.cache
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.AssemblyInfoInputs.cache
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.AssemblyInfo.cs
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.csproj.CoreCompileInputs.cache
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.RazorAssemblyInfo.cache
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.RazorAssemblyInfo.cs
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\bin\Debug\netcoreapp2.1\InventoryService.deps.json
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\bin\Debug\netcoreapp2.1\InventoryService.runtimeconfig.json
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\bin\Debug\netcoreapp2.1\InventoryService.runtimeconfig.dev.json
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\bin\Debug\netcoreapp2.1\InventoryService.dll
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\bin\Debug\netcoreapp2.1\InventoryService.pdb
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.RazorTargetAssemblyInfo.cache
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.dll
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.pdb
+D:\INSTAL\Documents\paidprogramming\C#\InventoryService\InventoryService\obj\Debug\netcoreapp2.1\InventoryService.genruntimeconfig.cache
