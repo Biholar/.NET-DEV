@@ -1,0 +1,27 @@
+C:\Users\tomka\source\repos\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\bin\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.deps.json
+C:\Users\tomka\source\repos\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\bin\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.dll
+C:\Users\tomka\source\repos\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.csprojAssemblyReference.cache
+C:\Users\tomka\source\repos\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.AssemblyInfoInputs.cache
+C:\Users\tomka\source\repos\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.AssemblyInfo.cs
+C:\Users\tomka\source\repos\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tomka\source\repos\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.dll
+C:\Users\tomka\source\repos\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.pdb
+C:\Users\tomka\source\repos\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\bin\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.pdb
+D:\Examples ASP.NET CORE\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\bin\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.deps.json
+D:\Examples ASP.NET CORE\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\bin\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.dll
+D:\Examples ASP.NET CORE\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\bin\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.pdb
+D:\Examples ASP.NET CORE\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.csprojAssemblyReference.cache
+D:\Examples ASP.NET CORE\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.AssemblyInfoInputs.cache
+D:\Examples ASP.NET CORE\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.AssemblyInfo.cs
+D:\Examples ASP.NET CORE\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.csproj.CoreCompileInputs.cache
+D:\Examples ASP.NET CORE\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.dll
+D:\Examples ASP.NET CORE\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.pdb
+D:\INSTAL\Documents\paidprogramming\.NET DEV\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\bin\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.deps.json
+D:\INSTAL\Documents\paidprogramming\.NET DEV\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\bin\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\bin\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.pdb
+D:\INSTAL\Documents\paidprogramming\.NET DEV\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.csprojAssemblyReference.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.AssemblyInfoInputs.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.AssemblyInfo.cs
+D:\INSTAL\Documents\paidprogramming\.NET DEV\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.pdb
+D:\INSTAL\Documents\paidprogramming\.NET DEV\SkillAppAdoDapperWebApi\SkillAppAdoDapperWebApi.DAL\obj\Debug\netcoreapp3.1\SkillAppAdoDapperWebApi.DAL.csproj.CoreCompileInputs.cache

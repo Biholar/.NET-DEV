@@ -1,0 +1,12 @@
+D:\INSTAL\Documents\paidprogramming\.NET DEV\Cisarius\Cisarius\bin\Debug\Cisarius.exe.config
+D:\INSTAL\Documents\paidprogramming\.NET DEV\Cisarius\Cisarius\bin\Debug\Cisarius.exe
+D:\INSTAL\Documents\paidprogramming\.NET DEV\Cisarius\Cisarius\bin\Debug\Cisarius.pdb
+D:\INSTAL\Documents\paidprogramming\.NET DEV\Cisarius\Cisarius\bin\Debug\MaterialSkin.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\Cisarius\Cisarius\obj\Debug\Cisarius.csprojAssemblyReference.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\Cisarius\Cisarius\obj\Debug\Cisarius.FormMain.resources
+D:\INSTAL\Documents\paidprogramming\.NET DEV\Cisarius\Cisarius\obj\Debug\Cisarius.Properties.Resources.resources
+D:\INSTAL\Documents\paidprogramming\.NET DEV\Cisarius\Cisarius\obj\Debug\Cisarius.csproj.GenerateResource.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\Cisarius\Cisarius\obj\Debug\Cisarius.csproj.CoreCompileInputs.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\Cisarius\Cisarius\obj\Debug\Cisarius.csproj.CopyComplete
+D:\INSTAL\Documents\paidprogramming\.NET DEV\Cisarius\Cisarius\obj\Debug\Cisarius.exe
+D:\INSTAL\Documents\paidprogramming\.NET DEV\Cisarius\Cisarius\obj\Debug\Cisarius.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0sw8xH9uFv3vJxvjRQAd7oDzMKGWl1jOWv2Y4omrCWbqu+CRDlswrC6/cRnBX/zpHvbI8sfCihO3CtmjfjxIyw==",
+  "dgSpecHash": "fABNEfvnIMKSCcQSGpuvI4P6yk7pfDPMyMmZ4h0VciDOgi3xSijZSq2ykD86smMwWQZVyvNoLdIle7WN8ZMKiw==",
   "success": true,
-  "projectFilePath": "D:\\INSTAL\\Documents\\paidprogramming\\C#\\InventoryService\\InventoryService\\InventoryService.csproj",
+  "projectFilePath": "D:\\INSTAL\\Documents\\paidprogramming\\.NET DEV\\InventoryService\\InventoryService\\InventoryService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

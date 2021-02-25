@@ -1,0 +1,7 @@
+D:\INSTAL\Documents\paidprogramming\.NET DEV\MyProj\MilkMarket\MilkMarket\obj\Release\netcoreapp3.1\MilkMarket.csprojAssemblyReference.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\MyProj\MilkMarket\MilkMarket\obj\Release\netcoreapp3.1\MilkMarket.AssemblyInfoInputs.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\MyProj\MilkMarket\MilkMarket\obj\Release\netcoreapp3.1\MilkMarket.AssemblyInfo.cs
+D:\INSTAL\Documents\paidprogramming\.NET DEV\MyProj\MilkMarket\MilkMarket\obj\Release\netcoreapp3.1\MilkMarket.csproj.CoreCompileInputs.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\MyProj\MilkMarket\MilkMarket\obj\Release\netcoreapp3.1\MilkMarket.MvcApplicationPartsAssemblyInfo.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\MyProj\MilkMarket\MilkMarket\obj\Release\netcoreapp3.1\MilkMarket.RazorAssemblyInfo.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\MyProj\MilkMarket\MilkMarket\obj\Release\netcoreapp3.1\MilkMarket.RazorAssemblyInfo.cs

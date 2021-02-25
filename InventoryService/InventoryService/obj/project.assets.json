@@ -11885,11 +11885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\INSTAL\\Documents\\paidprogramming\\C#\\InventoryService\\InventoryService\\InventoryService.csproj",
+      "projectUniqueName": "D:\\INSTAL\\Documents\\paidprogramming\\.NET DEV\\InventoryService\\InventoryService\\InventoryService.csproj",
       "projectName": "InventoryService",
-      "projectPath": "D:\\INSTAL\\Documents\\paidprogramming\\C#\\InventoryService\\InventoryService\\InventoryService.csproj",
+      "projectPath": "D:\\INSTAL\\Documents\\paidprogramming\\.NET DEV\\InventoryService\\InventoryService\\InventoryService.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "D:\\INSTAL\\Documents\\paidprogramming\\C#\\InventoryService\\InventoryService\\obj\\",
+      "outputPath": "D:\\INSTAL\\Documents\\paidprogramming\\.NET DEV\\InventoryService\\InventoryService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
