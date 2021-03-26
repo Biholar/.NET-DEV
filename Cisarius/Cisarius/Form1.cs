@@ -29,6 +29,7 @@ namespace Cisarius
 
         public string Direction(string input)
         {
+
             StringBuilder code = new StringBuilder();
             string s = textBox1.Text.ToLower();
             int step = Convert.ToInt32(updown.Value);
@@ -37,6 +38,7 @@ namespace Cisarius
                     if (s[i] == al[j]) code.Append(al[(j + step) % al.Length]);
             return code.ToString();
 
+            
         }
 
         private void bt_undo_Click(object sender, EventArgs e)
