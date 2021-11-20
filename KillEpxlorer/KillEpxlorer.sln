@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KillEpxlorer", "KillEpxlorer\KillEpxlorer.csproj", "{08CB4CE2-2820-45B3-8F44-FD133F45A067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08CB4CE2-2820-45B3-8F44-FD133F45A067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08CB4CE2-2820-45B3-8F44-FD133F45A067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08CB4CE2-2820-45B3-8F44-FD133F45A067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08CB4CE2-2820-45B3-8F44-FD133F45A067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80F9AFC6-E7A2-4698-B8FD-1C999E1A2BF7}
+	EndGlobalSection
+EndGlobal

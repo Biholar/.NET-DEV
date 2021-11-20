@@ -1,0 +1,17 @@
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\bin\Debug\net6.0-windows\KillEpxlorer.exe
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\bin\Debug\net6.0-windows\KillEpxlorer.deps.json
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\bin\Debug\net6.0-windows\KillEpxlorer.runtimeconfig.json
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\bin\Debug\net6.0-windows\KillEpxlorer.dll
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\bin\Debug\net6.0-windows\ref\KillEpxlorer.dll
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\bin\Debug\net6.0-windows\KillEpxlorer.pdb
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\obj\Debug\net6.0-windows\KillEpxlorer.csproj.AssemblyReference.cache
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\obj\Debug\net6.0-windows\KillEpxlorer.GeneratedMSBuildEditorConfig.editorconfig
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\obj\Debug\net6.0-windows\KillEpxlorer.AssemblyInfoInputs.cache
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\obj\Debug\net6.0-windows\KillEpxlorer.AssemblyInfo.cs
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\obj\Debug\net6.0-windows\KillEpxlorer.csproj.CoreCompileInputs.cache
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\obj\Debug\net6.0-windows\KillEpxlorer.dll
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\obj\Debug\net6.0-windows\ref\KillEpxlorer.dll
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\obj\Debug\net6.0-windows\KillEpxlorer.pdb
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\obj\Debug\net6.0-windows\KillEpxlorer.genruntimeconfig.cache
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\obj\Debug\net6.0-windows\KillEpxlorer.MainF.resources
+D:\INSTAL\Documents\paidprogramming\CHNU\.NET DEV\KillEpxlorer\KillEpxlorer\obj\Debug\net6.0-windows\KillEpxlorer.csproj.GenerateResource.cache
