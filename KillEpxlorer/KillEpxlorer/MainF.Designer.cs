@@ -28,38 +28,25 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.kill = new System.Windows.Forms.Button();
-            this.Start = new System.Windows.Forms.Button();
+            this.Switch_Button = new System.Windows.Forms.Button();
             this.Close = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.StateL = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // kill
+            // Switch_Button
             // 
-            this.kill.BackColor = System.Drawing.Color.Red;
-            this.kill.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.kill.Font = new System.Drawing.Font("Segoe UI", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.kill.Location = new System.Drawing.Point(0, 0);
-            this.kill.Name = "kill";
-            this.kill.Size = new System.Drawing.Size(416, 68);
-            this.kill.TabIndex = 0;
-            this.kill.Text = "Kill explorer 💀";
-            this.kill.UseVisualStyleBackColor = false;
-            this.kill.Click += new System.EventHandler(this.kill_Click);
-            // 
-            // Start
-            // 
-            this.Start.BackColor = System.Drawing.Color.LawnGreen;
-            this.Start.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.Start.Font = new System.Drawing.Font("Segoe UI", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.Start.Location = new System.Drawing.Point(0, 82);
-            this.Start.Name = "Start";
-            this.Start.Size = new System.Drawing.Size(416, 68);
-            this.Start.TabIndex = 1;
-            this.Start.Text = "Start explorer 🤡";
-            this.Start.UseVisualStyleBackColor = false;
-            this.Start.Click += new System.EventHandler(this.Start_Click);
+            this.Switch_Button.BackColor = System.Drawing.Color.LawnGreen;
+            this.Switch_Button.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Switch_Button.Font = new System.Drawing.Font("Segoe UI", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.Switch_Button.Location = new System.Drawing.Point(0, 82);
+            this.Switch_Button.Name = "Switch_Button";
+            this.Switch_Button.Size = new System.Drawing.Size(416, 68);
+            this.Switch_Button.TabIndex = 1;
+            this.Switch_Button.Text = "Start explorer 🤡";
+            this.Switch_Button.UseVisualStyleBackColor = false;
+            this.Switch_Button.Click += new System.EventHandler(this.Switch_Button_Click);
             // 
             // Close
             // 
@@ -79,13 +66,24 @@
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.kill);
-            this.panel1.Controls.Add(this.Start);
+            this.panel1.Controls.Add(this.StateL);
+            this.panel1.Controls.Add(this.Switch_Button);
             this.panel1.Controls.Add(this.Close);
             this.panel1.Location = new System.Drawing.Point(25, 25);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(500, 150);
             this.panel1.TabIndex = 3;
+            // 
+            // StateL
+            // 
+            this.StateL.Font = new System.Drawing.Font("Segoe UI", 30F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.StateL.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.StateL.Location = new System.Drawing.Point(0, 0);
+            this.StateL.Name = "StateL";
+            this.StateL.Size = new System.Drawing.Size(416, 62);
+            this.StateL.TabIndex = 3;
+            this.StateL.Text = "Explorer is dead";
+            this.StateL.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // MainF
             // 
@@ -107,10 +105,9 @@
         }
 
         #endregion
-
-        public Button kill;
-        public Button Start;
+        public Button Switch_Button;
         public Button Close;
         private Panel panel1;
+        private Label StateL;
     }
 }

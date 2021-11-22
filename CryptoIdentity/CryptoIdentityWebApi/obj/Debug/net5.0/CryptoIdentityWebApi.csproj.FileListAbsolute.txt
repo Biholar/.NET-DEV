@@ -1,0 +1,84 @@
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.csprojAssemblyReference.cache
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.AssemblyInfoInputs.cache
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.AssemblyInfo.cs
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.csproj.CoreCompileInputs.cache
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\CryptoIdentityWebApi.exe
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\CryptoIdentityWebApi.deps.json
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\CryptoIdentityWebApi.runtimeconfig.json
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\CryptoIdentityWebApi.runtimeconfig.dev.json
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\CryptoIdentityWebApi.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\ref\CryptoIdentityWebApi.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\CryptoIdentityWebApi.pdb
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\DnsClient.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\staticwebassets\CryptoIdentityWebApi.StaticWebAssets.Manifest.cache
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\staticwebassets\CryptoIdentityWebApi.StaticWebAssets.xml
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\scopedcss\bundle\CryptoIdentityWebApi.styles.css
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.csproj.CopyComplete
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\ref\CryptoIdentityWebApi.dll
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.pdb
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.genruntimeconfig.cache
+C:\Users\andru\source\repos\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\Serilog.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\appsettings.json
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\CryptoIdentityWebApi.exe
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\CryptoIdentityWebApi.deps.json
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\CryptoIdentityWebApi.runtimeconfig.json
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\CryptoIdentityWebApi.runtimeconfig.dev.json
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\CryptoIdentityWebApi.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\ref\CryptoIdentityWebApi.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\CryptoIdentityWebApi.pdb
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\DnsClient.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\Serilog.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\SharpCompress.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.csprojAssemblyReference.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.AssemblyInfoInputs.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.AssemblyInfo.cs
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.csproj.CoreCompileInputs.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\staticwebassets\CryptoIdentityWebApi.StaticWebAssets.Manifest.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\staticwebassets\CryptoIdentityWebApi.StaticWebAssets.xml
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\scopedcss\bundle\CryptoIdentityWebApi.styles.css
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.RazorTargetAssemblyInfo.cache
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.csproj.CopyComplete
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\ref\CryptoIdentityWebApi.dll
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.pdb
+D:\INSTAL\Documents\paidprogramming\.NET DEV\CryptoIdentity\CryptoIdentityWebApi\obj\Debug\net5.0\CryptoIdentityWebApi.genruntimeconfig.cache
